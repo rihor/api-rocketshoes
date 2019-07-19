@@ -1,6 +1,6 @@
 ## Try it
 
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+[Acesse a API!](https://my-json-server.typicode.com/rihor/api-rocketshoes)
 
 ## Use your own data
 
